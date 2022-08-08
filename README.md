@@ -10,7 +10,7 @@ This is not intended for use in a production setting.
 ## Try it out:
 1. Click on the "Gitpod ready to code" button below
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/keelanfh/ddev-gitpod)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/keelanfh/localgov_project_gitpod)
 
 1. Your environment is being prepared, wait about 40 seconds (A splash screen will appear)
 1. VScode IDE will be displayed.
