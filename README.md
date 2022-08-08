@@ -16,8 +16,8 @@ This is not intended for use in a production setting.
 1. VScode IDE will be displayed.
 1. You'll get a link to your LocalGov Drupal site. Open this in a new tab.
 1. Log in with the credentials `admin` and `admin`.
-> Important: change your login password as soon as you log in! Otherwise anyone with the link can control your site.
+> Important: by default, the site is not made public. If you later make the site public, make sure you change the username and password - otherwise anyone with the link could control your site.
 5. Navigate to Appearance, under LocalGov Base, select "Install and select as default"
 1. Navigate to Configure, tick "LocalGov Demo", scroll down and click "Install". This will install a lot of the LocalGov Drupal modules as well as some demo content. 
 
-Based on [localgov_project](https://github.com/localgovdrupal/localgov_project) and 
+Based on [localgov_project](https://github.com/localgovdrupal/localgov_project) and [ddev-gitpod](https://github.com/shaal/ddev-gitpod)
